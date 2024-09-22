@@ -5,7 +5,11 @@ Proyecyo creado con [Angular CLI](https://github.com/angular/angular-cli) versio
 
 ## Servidor de desarrollo
 
-Ejecuta `ng serve` para un servidor de desarrollo. Navega a `http://localhost:4200/`. La aplicación se recargará automáticamente si cambia alguno de los archivos fuente.
+Ejecuta `ng serve` para un servidor de desarrollo. 
+
+Navega a `http://localhost:4200/`. 
+
+La aplicación se recargará automáticamente si cambia alguno de los archivos fuente.
 
 ## Construcción
 
